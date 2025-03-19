@@ -1,0 +1,18 @@
+Atividade MongoDB
+
+1- Criar um novo projeto node com a estrutura de pastas e arquivos para trabalhar com o banco de dados MongoDB no console.
+
+2- Criar um banco de dados de nome bancoOS
+
+3- Criar um modelo de dados (coleção) para os campos da janela de Ordem de Serviços do projeto individual
+
+4- Emitir (cadastrar) 4 OS
+
+5- Pesquisar todas as OS abertas
+
+6- Pesquisar uma OS específica pelo número da OS
+
+7- Alterar o status de uma OS
+
+8- Excluir uma OS
+
