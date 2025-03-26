@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Yessalas/Estudo-MoongoDB#readme",
   "dependencies": {
-    "mongoose": "^8.12.1"
+    "mongoose": "^8.12.1",
+    "moongose": "^1.0.0"
   }
 }
