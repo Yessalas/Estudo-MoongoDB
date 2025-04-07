@@ -2,8 +2,9 @@
   "name": "estudo-moongodb",
   "version": "1.0.0",
   "description": "Estudo banco de dados MoongoDB",
-  "main": "index.js",
+  "main": "OS.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
